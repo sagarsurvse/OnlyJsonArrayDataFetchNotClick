@@ -1,0 +1,2 @@
+# OnlyJsonArrayDataFetchNotClick
+fetch json array
